@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+backend/.env
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Local debug output
+debug_out/
+*.log
+.DS_Store
+
+# Owner-managed catalogue and uploaded rug images (runtime data)
+backend/var/

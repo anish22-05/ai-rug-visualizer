@@ -1,0 +1,13 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+pydantic>=2.7
+pydantic-settings>=2.3
+pillow>=10.4
+numpy>=1.26
+opencv-python-headless>=4.10
+torch>=2.4
+# >=4.54 for EoMT (EomtForUniversalSegmentation); EoMT imports scipy.
+transformers>=4.54
+scipy>=1.11
+slowapi>=0.1.9

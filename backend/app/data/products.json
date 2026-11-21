@@ -1,0 +1,125 @@
+{
+  "currency": "INR",
+  "products": [
+    {
+      "id": "product_01",
+      "name": "Modern Beige Rug",
+      "price": 4999,
+      "shape": "rectangle",
+      "material": "Wool blend, flat weave",
+      "description": "Soft neutral beige with a tonal border and tasselled ends.",
+      "image": "/static/rugs/modern-beige.png",
+      "thumbnail": "/static/rugs/modern-beige-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "120 × 180 cm", "width": 120, "height": 180, "priceDelta": -1500 },
+        { "id": "m", "label": "160 × 230 cm", "width": 160, "height": 230, "priceDelta": 0 },
+        { "id": "l", "label": "200 × 300 cm", "width": 200, "height": 300, "priceDelta": 2500 }
+      ]
+    },
+    {
+      "id": "product_02",
+      "name": "Geometric Grey Rug",
+      "price": 5499,
+      "shape": "rectangle",
+      "material": "Polypropylene, low pile",
+      "description": "Charcoal diamond lattice on dove grey with a bold frame.",
+      "image": "/static/rugs/geometric-grey.png",
+      "thumbnail": "/static/rugs/geometric-grey-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "120 × 180 cm", "width": 120, "height": 180, "priceDelta": -1500 },
+        { "id": "m", "label": "160 × 240 cm", "width": 160, "height": 240, "priceDelta": 0 },
+        { "id": "l", "label": "200 × 300 cm", "width": 200, "height": 300, "priceDelta": 2800 }
+      ]
+    },
+    {
+      "id": "product_03",
+      "name": "Classic Pattern Rug",
+      "price": 6999,
+      "shape": "rectangle",
+      "material": "Hand-tufted wool",
+      "description": "Traditional medallion design in crimson, navy and antique gold.",
+      "image": "/static/rugs/classic-pattern.png",
+      "thumbnail": "/static/rugs/classic-pattern-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "120 × 180 cm", "width": 120, "height": 180, "priceDelta": -2000 },
+        { "id": "m", "label": "170 × 240 cm", "width": 170, "height": 240, "priceDelta": 0 },
+        { "id": "l", "label": "200 × 300 cm", "width": 200, "height": 300, "priceDelta": 3500 }
+      ]
+    },
+    {
+      "id": "product_04",
+      "name": "Kilim Stripe Rug",
+      "price": 3999,
+      "shape": "rectangle",
+      "material": "Cotton, reversible kilim",
+      "description": "Hand-loomed stripes with zigzag bands in warm spice tones.",
+      "image": "/static/rugs/kilim-stripe.png",
+      "thumbnail": "/static/rugs/kilim-stripe-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "90 × 150 cm", "width": 90, "height": 150, "priceDelta": -1200 },
+        { "id": "m", "label": "140 × 200 cm", "width": 140, "height": 200, "priceDelta": 0 },
+        { "id": "l", "label": "170 × 240 cm", "width": 170, "height": 240, "priceDelta": 1800 }
+      ]
+    },
+    {
+      "id": "product_05",
+      "name": "Ivory Ring Rug",
+      "price": 5999,
+      "shape": "rectangle",
+      "material": "Plush shag, polyester",
+      "description": "Cosy ivory pile with an espresso ring motif.",
+      "image": "/static/rugs/ivory-ring.png",
+      "thumbnail": "/static/rugs/ivory-ring-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "120 × 180 cm", "width": 120, "height": 180, "priceDelta": -1800 },
+        { "id": "m", "label": "160 × 240 cm", "width": 160, "height": 240, "priceDelta": 0 },
+        { "id": "l", "label": "200 × 300 cm", "width": 200, "height": 300, "priceDelta": 3000 }
+      ]
+    },
+    {
+      "id": "product_06",
+      "name": "Navy Abstract Rug",
+      "price": 7499,
+      "shape": "rectangle",
+      "material": "Viscose, high sheen",
+      "description": "Deep navy with flowing gold and ivory brushstrokes.",
+      "image": "/static/rugs/navy-abstract.png",
+      "thumbnail": "/static/rugs/navy-abstract-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "120 × 180 cm", "width": 120, "height": 180, "priceDelta": -2200 },
+        { "id": "m", "label": "160 × 240 cm", "width": 160, "height": 240, "priceDelta": 0 },
+        { "id": "l", "label": "200 × 300 cm", "width": 200, "height": 300, "priceDelta": 3800 }
+      ]
+    },
+    {
+      "id": "product_07",
+      "name": "Round Jute Rug",
+      "price": 3499,
+      "shape": "round",
+      "material": "Natural braided jute",
+      "description": "Hand-braided jute spiral, a natural round accent.",
+      "image": "/static/rugs/round-jute.png",
+      "thumbnail": "/static/rugs/round-jute-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "Ø 120 cm", "width": 120, "height": 120, "priceDelta": -1000 },
+        { "id": "m", "label": "Ø 150 cm", "width": 150, "height": 150, "priceDelta": 0 },
+        { "id": "l", "label": "Ø 200 cm", "width": 200, "height": 200, "priceDelta": 2000 }
+      ]
+    },
+    {
+      "id": "product_08",
+      "name": "Terracotta Runner",
+      "price": 2999,
+      "shape": "runner",
+      "material": "Wool, flat weave",
+      "description": "Hallway runner with an ivory diamond motif on terracotta.",
+      "image": "/static/rugs/terracotta-runner.png",
+      "thumbnail": "/static/rugs/terracotta-runner-thumb.png",
+      "sizes": [
+        { "id": "s", "label": "70 × 200 cm", "width": 70, "height": 200, "priceDelta": -600 },
+        { "id": "m", "label": "80 × 240 cm", "width": 80, "height": 240, "priceDelta": 0 },
+        { "id": "l", "label": "80 × 300 cm", "width": 80, "height": 300, "priceDelta": 900 }
+      ]
+    }
+  ]
+}
